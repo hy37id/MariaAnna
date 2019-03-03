@@ -453,6 +453,7 @@ button.btn-more a {
     border-radius: 50%;
     left: 0;
     top: 0;
+    cursor: pointer;
 }
 
 .slide-dots span.active-dots {
